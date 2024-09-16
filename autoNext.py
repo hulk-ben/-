@@ -49,7 +49,7 @@ def skipConfirm():
     a = 0
     while a != 100:
         try:
-            pyautogui.moveTo(500'k'pskp
+            pyautogui.moveTo(500,700)
             ovr.getSite("images/conversition.png",165,80)
             a = 100
         except pyautogui.ImageNotFoundException:
